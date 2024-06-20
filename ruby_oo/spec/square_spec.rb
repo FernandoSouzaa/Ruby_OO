@@ -1,5 +1,6 @@
 require 'spec_helper'
 require 'square'
+require 'pry'
 
 RSpec.describe Square do
     #forma de chamar a função pra execução
